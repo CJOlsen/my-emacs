@@ -13,16 +13,22 @@ your home directory and rename it to ".emacs.d"
 
 Also depends on emacs-goodies.el, to install on Debian use "sudo apt-get install emacs-goodies-el"
 
-Don't forget to swap your ctrl and caps-lock keys!
+Don't forget to swap your ctrl and caps-lock keys! http://www.emacswiki.org/emacs/MovingTheCtrlKey
 
 ## Includes:
 
 emacs-goodies (download seperately)
+
 autopair.el (auto closes parenthesis)
+
 rainbow-delimiters.el (gives each set of parenthesis different colors)
+
 emacs-color-theme-solarized (best color schemes around)
+
 nrepl.el (has been replaced by 'cider' but I haven't upgraded yet, while in Clojure mode press C-x C-z to start an inferior LISP process.)
+
 clojure-mode.el
+
 clojure-test-mode.el
 
 and more random bits and pieces...
